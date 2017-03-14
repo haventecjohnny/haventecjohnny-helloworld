@@ -1,0 +1,35 @@
+{
+  "name": "haventecjohnny-helloworld",
+  "version": "0.0.1",
+  "description": "Hello World",
+  "keywords": [],
+  "author": "Johnny <johnny@haventec.com>",
+  "repository": "git://github.com/haventecjohnny/haventecjohnny-helloworld.git",
+  "main": "index",
+  "homepage": "https://github.com/haventecjohnny/haventecjohnny-helloworld",
+  "contributors": [
+    {
+      "name": "Johnny"
+    }
+  ],
+  "bugs": {
+    "url": "",
+    "email": "johnny@haventec.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "scripts": {
+  },
+  "component": {
+    "scripts": {
+      "common/index.js": "index.js"
+    }
+  }
+}
